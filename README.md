@@ -1,3 +1,5 @@
+Reproducer for https://github.com/Behat/Behat/issues/1421
+
 PHPUnit's assertion failure in Behat steps results in:
 ```
     Given ExceptionStringer is triggered     # FeatureContext::triggerExceptionStringer()
